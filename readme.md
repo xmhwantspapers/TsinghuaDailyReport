@@ -21,9 +21,9 @@
 #### 使用Github Action自动定时执行
 * 创建github账户
 * fork该仓库到你的项目，下面都是设置你的项目
-* 设置-> Secrets-> 添加 USER_NAME 与 USER_PASS为你清华info的用户名与密码
+* 进入: Settings-> Secrets-> 添加 USER_NAME 与 USER_PASS为你清华info的用户名与密码
 ![添加Secrets](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/c.png)
-* 进入 Action 点击 Understand
+* 进入: Actions 点击 Understand
 
 
 OK !
