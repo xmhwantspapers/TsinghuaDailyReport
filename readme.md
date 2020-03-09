@@ -24,7 +24,7 @@
 * 进入: Settings-> Secrets-> 添加 USER_NAME 与 USER_PASS为你清华info的用户名与密码
 ![添加Secrets](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/c.png)
 * 进入: Actions 点击 Understand
-
+![Understand](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/d.png)
 
 OK !
 
