@@ -2,7 +2,7 @@
 
 学生健康和出行情况报告每日自动提交
 
-建议使用第二种方式，简单易行.
+强烈建议使用第二种方式，简单易行.
 
 
 ### 正常使用说明
@@ -25,11 +25,11 @@
 ![添加Secrets](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/c.png)
 * 进入 Action 点击 Understand
 
+
 OK !
 
-说明:
-Github Action的配置文件(.github/workflows/deploy.yml)中配置了时间 
-默认是北京时间10:00 可以自行修改
+> 说明:Github Action的配置文件(.github/workflows/deploy.yml)中配置了时间 
+默认是每天北京时间10:00 可以自行修改
 
 
 
