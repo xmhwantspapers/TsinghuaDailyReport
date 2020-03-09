@@ -37,8 +37,8 @@ OK !
 >
 >高阶玩法可以配置邮箱, 参考: [GitHub Actions 教程：定时发送天气邮件](https://www.ruanyifeng.com/blog/2019/12/github_actions.html)
 
-> Github Action服务器时间为UTC格式 比北京晚8个小时
-> 除此之外，它要慢几分钟(5分钟左右) 自己测试时注意预留5分钟以上的等待定时时间
+> Github Action服务器时间为UTC格式,比北京晚8个小时;
+> 除此之外，它要慢几分钟(5分钟左右), 自己测试时多等待5分钟左右
 
 
 
