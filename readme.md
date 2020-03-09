@@ -5,7 +5,7 @@
 强烈建议使用第二种方式，简单易行.
 
 
-### 正常使用说明
+### 正常使用方式
 
 * pip install -r requirements.txt
 * 配置 conf.ini 输入清华info 用户名与密码
@@ -14,7 +14,7 @@
 > [Windows 创建定时任务](https://www.cnblogs.com/wensiyang0916/p/5773828.html)
 
 
-### 非正常使用说明
+### 非正常使用方式
 > 如果你没有服务器，或者自己电脑也不能保证都开启，
 那么使用Github Action可以作为你的服务器,并且非常安全。
 >
