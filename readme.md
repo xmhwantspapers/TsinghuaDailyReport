@@ -30,7 +30,12 @@ OK !
 
 > 说明:Github Action的配置文件(.github/workflows/deploy.yml)中配置了时间 
 默认是每天北京时间10:00 可以自行修改
-> 方式二 不需要配置conf.ini 
+>
+> 不需要配置conf.ini 
+>
+> 运行日志去 Action下面查看
+>
+>高阶玩法可以配置邮箱, 参考: [GitHub Actions 教程：定时发送天气邮件](https://www.ruanyifeng.com/blog/2019/12/github_actions.html)
 
 
 
@@ -38,3 +43,5 @@ OK !
 ### 效果图
 ![效果图1](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/a.png) 
 ![效果图2](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/b.png) 
+![效果图3](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/e.png) 
+![效果图4](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/f.png) 
