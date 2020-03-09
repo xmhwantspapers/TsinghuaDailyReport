@@ -21,7 +21,7 @@
 #### 使用Github Action自动定时执行
 * 创建github账户
 * fork该仓库到你的项目，下面都是设置你的项目
-* 设置-> Secrets-> 添加 USER_NAME 与 USER_PASS为你Info的用户名与密码
+* 设置-> Secrets-> 添加 USER_NAME 与 USER_PASS为你清华info的用户名与密码
 ![添加Secrets](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/c.png)
 * 进入 Action 点击 Understand
 
@@ -30,6 +30,8 @@ OK !
 
 > 说明:Github Action的配置文件(.github/workflows/deploy.yml)中配置了时间 
 默认是每天北京时间10:00 可以自行修改
+> 方式二 不需要配置conf.ini 
+
 
 
 
