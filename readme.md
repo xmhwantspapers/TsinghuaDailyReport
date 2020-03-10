@@ -20,9 +20,9 @@
 >
 * 创建github账户
 * fork该仓库到你的项目，下面都是设置你的项目
-* 进入: Settings-> Secrets-> 添加USER_NAME与USER_PASS两个key, 对应value为你清华info的用户名与密码 **Important!**
+* 进入: Settings-> Secrets-> 添加USER_NAME与USER_PASS两个key, 对应value为你清华info的用户名与密码 // **Important!**
 ![添加Secrets](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/c.png)
-* 进入: Actions 点击 Understand **Important!**
+* 进入: Actions 点击 Understand  // **Important!**
 ![Understand](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/d.png)
 
 OK !
