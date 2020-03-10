@@ -15,14 +15,14 @@
 
 
 ### 非正常使用方式
-> 如果你没有服务器，或者自己电脑也不能保证都开启，
+> 如果你没有服务器，或者自己电脑也不能保证时刻开启，
 那么Github Action可以作为你的服务器自动定时执行,并且非常安全。
 >
 * 创建github账户
 * fork该仓库到你的项目，下面都是设置你的项目
-* 进入: Settings-> Secrets-> 添加 USER_NAME 与 USER_PASS为你清华info的用户名与密码
+* 进入: Settings-> Secrets-> 添加USER_NAME与USER_PASS两个key, 对应value为你清华info的用户名与密码 **Important!**
 ![添加Secrets](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/c.png)
-* 进入: Actions 点击 Understand
+* 进入: Actions 点击 Understand **Important!**
 ![Understand](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/d.png)
 
 OK !
